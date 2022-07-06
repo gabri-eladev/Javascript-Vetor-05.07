@@ -1,0 +1,20 @@
+h6 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #35032a;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  html {
+    background-color: #755b71;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #99bc67;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(220, 214, 214);
+  }
